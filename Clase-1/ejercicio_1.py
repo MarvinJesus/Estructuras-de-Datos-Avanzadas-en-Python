@@ -18,7 +18,7 @@ def main():
     transacciones_seleccionadas.sort()
     indice_central = len(transacciones_seleccionadas) // 2
     transacciones_seleccionadas.insert(indice_central, 0)
-    print(f"Lista final con cero en medio: {transacciones_seleccionadas}")
+    print(f"\nLista final con cero en medio: {transacciones_seleccionadas}\n")
 if __name__ == "__main__":
     main()
 

@@ -1,0 +1,5 @@
+Python es un lenguaje de programación muy popular creado por Guido van Rossum en 1991. Python se utiliza para desarrollo web, ciencia de datos, inteligencia artificial, automatización, scripting y análisis de datos. Python es fácil de aprender gracias a su sintaxis clara y legible, y es muy versátil para múltiples aplicaciones.
+
+Python tiene una amplia colección de bibliotecas como NumPy para cómputo numérico, Pandas para análisis de datos, Django y Flask para desarrollo web, y TensorFlow para machine learning. La comunidad de Python crece cada día y ofrece soporte en foros, documentación y cursos en línea.
+
+Python soporta programación orientada a objetos, funcional y procedural. Su filosofía enfatiza la legibilidad del código con el principio "legibilidad cuenta". Python es multiplataforma y funciona en Windows, Linux, macOS y muchas otras plataformas.
