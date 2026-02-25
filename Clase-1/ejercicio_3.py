@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # Clase 1
-
 def main():
     intereses_usuario_a = {"programacion", "musica", "deportes", "lectura", "cine", "viajes"}
     intereses_usuario_b = {"musica", "deportes", "cocina", "fotografia", "lectura", "arte"}

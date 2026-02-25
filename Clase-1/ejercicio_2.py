@@ -2,10 +2,8 @@
 # -*- coding: utf-8 -*-
 # Clase 1
 import string
-
 def main():
     nombre_archivo = "clase-1/parrafo.txt"
-
     try:
         with open(nombre_archivo, "r", encoding="utf-8") as archivo:
             texto = archivo.read()
